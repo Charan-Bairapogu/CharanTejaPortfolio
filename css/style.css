@@ -478,6 +478,7 @@ a:hover {
   background-color: #000000;
   padding-top: 15px;
   padding-bottom: 15px;
+   box-shadow: 0 0 0 1.5px #ffffff;
 }
 
 .navbar-b.navbar-reduce .nav-link {
